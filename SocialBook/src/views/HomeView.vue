@@ -4,7 +4,8 @@
 <template>
   <main>
     <div class="home">
-    <h1>page home</h1>
+    <h2>page home</h2>
+    <img src="../assets/img/imagen.svg" alt="imagen-social-book">
   </div>
   </main>
 </template>
